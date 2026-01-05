@@ -1,0 +1,24 @@
+Kui palju on maailmas ookeane?
+3
+5
+7
+9
+3
+Kes on Eesti president 2025. aastal?
+Kersti Kaljulaid
+Toomas Hendrik Ilves
+Alar Karis
+Mart Laar
+3
+Mis on arvuti peamine protsessor?
+RAM
+Hard drive
+CPU
+GPU
+3
+Mis on maapinna kõrgus Eestis?
+60 m
+100 m
+150 m
+200 m
+2

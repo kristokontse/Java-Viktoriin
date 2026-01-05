@@ -1,0 +1,19 @@
+Mis on Eesti pealinn?
+Tallinn
+Tartu
+Pärnu
+Narva
+1
+Mis värvi on taevas?
+Sinine
+Punane
+Roheline
+Kollane
+1
+Mitu ratast on keskmisel autol?
+Üks
+Kaks
+Null
+Neli
+4
+
