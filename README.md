@@ -1,3 +1,3 @@
 # Java-Viktoriin
-Autorid: Kristo Kontse, Marten Tiisler <pr>
+Autorid: Kristo Kontse, Marten Tiisler <br>
 Javas kirjutatud viktoriini mäng.
